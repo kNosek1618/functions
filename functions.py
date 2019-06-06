@@ -30,4 +30,4 @@ print ("Enter number, I will raise it to the third power:")
 result = cube(input())
 print(result)
 
-
+###RESULT###
