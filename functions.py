@@ -21,6 +21,13 @@ def kind_of_car(name, HP):
 kind_of_car("Ferrari", 605)
 kind_of_car("Maserati", 440)
 
+####RESULT####
+#Hello user :)
 
+#Name this car is Ferrari
+#Name this car is Maserati
+
+#Name this car is Ferrari and he have 605 HP.
+#Name this car is Maserati and he have 440 HP.
 
 
