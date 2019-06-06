@@ -21,6 +21,13 @@ def kind_of_car(name, HP):
 kind_of_car("Ferrari", 605)
 kind_of_car("Maserati", 440)
 
+print("")
 
+def cube(num):
+    return int(num)*int(num)*int(num)
+
+print ("Enter number, I will raise it to the third power:")
+result = cube(input())
+print(result)
 
 
