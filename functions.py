@@ -31,3 +31,14 @@ result = cube(input())
 print(result)
 
 ###RESULT###
+#Hello user :)
+
+#Name this car is Ferrari
+#Name this car is Maserati
+
+#Name this car is Ferrari and he have 605 HP.
+#Name this car is Maserati and he have 440 HP.
+
+#Enter number, I will raise it to the third power:
+#(number from input)   3
+#(result of up number) 27
